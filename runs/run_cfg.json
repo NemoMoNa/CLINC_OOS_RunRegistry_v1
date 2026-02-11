@@ -1,0 +1,18 @@
+{
+  "project": "clinc_oos_intent_run_registry",
+  "dataset_name": "clinc_oos",
+  "dataset_config": "plus",
+  "model_name": "distilbert-base-uncased",
+  "max_len": 128,
+  "batch_size": 16,
+  "lr": 2e-05,
+  "epochs": 4,
+  "seed": 42,
+  "early_stopping_patience": 2,
+  "max_train_examples": 8000,
+  "max_val_examples": 1000,
+  "max_test_examples": 2000,
+  "debug_max_steps_per_epoch": null,
+  "split_seed": 42,
+  "val_ratio": 0.1
+}

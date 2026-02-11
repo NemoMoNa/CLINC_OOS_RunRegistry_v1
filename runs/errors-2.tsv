@@ -1,0 +1,282 @@
+idx	true_id	pred_id	true_label	pred_label	text
+8	42	84	oos	order_status	check the status of my amazon orders for me
+11	58	136	share_location	current_location	what is my current location
+14	42	17	oos	jump_start	can you auto-pilot the car
+17	42	100	oos	rollover_401k	tell me how to perform cpr
+22	75	11	what_is_your_name	user_name	what do you like to be called
+32	42	17	oos	jump_start	can a samurai sword deflect a bullet
+35	42	131	oos	schedule_maintenance	find a cleaner that specializes in suede
+37	123	3	oil_change_when	oil_change_how	what's my oil change status
+38	71	93	spending_history	income	what are my finances like lately
+42	42	119	oos	change_speed	put words on the paper about what you want
+54	42	8	oos	gas_type	give me an energy usage breakdown for march
+58	42	72	oos	directions	where is the closest driving range
+66	42	10	oos	smart_home	vacuum out the car
+67	42	135	oos	calories	how many calories does jumping up and down burn
+70	23	9	restaurant_reservation	accept_reservations	i'd like to make a reservation at rooth chris, can you do that
+78	13	82	repeat	greeting	sorry i missed that
+96	42	0	oos	restaurant_reviews	whats the best rated lipstick
+108	42	150	oos	change_volume	"can you really time your compressions to queen's ""another one bites the dust"""
+133	60	105	calendar	calendar_update	have i added my doctor's appointment to my calendar
+141	12	87	report_lost_card	damaged_card	someone used my chase card without my authorization
+142	42	10	oos	smart_home	have you seen the remote
+145	42	32	oos	timer	do sets of 25 set-ups each morning til you have completed your goal
+173	42	41	oos	credit_limit	what is the cashback rate for my credit card
+177	107	82	yes	greeting	great
+192	44	90	expiration_date	replacement_card_duration	when will my new credit card arrive
+209	75	11	what_is_your_name	user_name	what name do you go by
+214	27	143	bill_balance	min_payment	i need to know the price of my car payment and insurance please
+221	91	103	new_card	application_status	i need to get a new credit card application
+231	119	147	change_speed	cancel	why are you talking so slowly
+233	42	4	oos	time	what are the hours for disney world
+234	21	106	what_song	play_music	what kind of music on the speaker now
+235	42	31	oos	measurement_conversion	how many ppm of particulate is in my local water
+264	91	90	new_card	replacement_card_duration	i would like to get a new credt card
+265	42	17	oos	jump_start	switch over to low power mode to preserve battery life
+277	42	4	oos	time	what is the time signature for the castlevania song bloody tears
+291	42	40	oos	car_rental	search the web for monthly parking near my house
+300	42	17	oos	jump_start	check battery health on this device
+302	42	149	oos	travel_suggestion	show me how many community centers are located within 5 miles of my location
+306	42	103	oos	application_status	search information on how to apply foundation
+311	42	10	oos	smart_home	why would the water be turned off
+317	16	42	order	oos	what is the price of bluetooth speakers on amazon
+319	101	140	pto_request_status	next_holiday	when will i hear back about my days off
+324	42	1	oos	nutrition_info	what are some natural remedies to help ease stress
+326	42	116	oos	book_hotel	are there any apartments for rent nearby
+339	43	125	shopping_list	shopping_list_update	are carrots added to the grocery list
+348	42	74	oos	insurance	how to get the right medicine
+352	75	11	what_is_your_name	user_name	what's your name anyway
+359	2	70	account_blocked	report_fraud	did someone who is unauthorized try to get into my bank account
+361	42	145	oos	restaurant_suggestion	find out where i can by melamine dinner plates
+390	42	37	oos	last_maintenance	what is the last time the living room was vacuumed
+394	107	147	yes	cancel	please let's do it
+397	42	37	oos	last_maintenance	can you find my car in the parking lot
+405	75	11	what_is_your_name	user_name	how do you say your name
+417	54	44	food_last	expiration_date	when does the honey expire
+421	89	55	pin_change	change_ai_name	i would like to change the name on my capital one account
+422	42	129	oos	fun_fact	find me a book on motivational speaking from amazon
+424	42	31	oos	measurement_conversion	how much for a samurai sword
+435	42	135	oos	calories	how much sugar was in my urine this morning
+444	121	107	maybe	yes	undecided
+448	111	133	pay_bill	transfer	pay $175 on my visa
+462	112	104	ingredients_list	recipe	give me a recipe for tacos
+465	42	149	oos	travel_suggestion	give me a recommendation for a local landscaper
+471	42	31	oos	measurement_conversion	how much weight should i lift to get buff
+480	144	55	change_user_name	change_ai_name	could you call me a different name
+487	42	16	oos	order	find out where i can buy a barbie doll for my niece
+496	95	60	date	calendar	what will tomorrow be on the calendar
+504	125	134	shopping_list_update	ingredient_substitution	i don't need eggs anymore, but i do need milk
+509	42	54	oos	food_last	am i too old to be a sugar babyo
+519	42	7	oos	interest_rate	what's the current prevailing interest rate for mortgages in my area
+527	79	56	payday	bill_due	what day can i expect to receive payment on
+531	42	53	oos	reminder_update	can you mark this note as important
+541	42	21	oos	what_song	what are the words to the chorus for this song
+542	42	140	oos	next_holiday	when's the next mardi gras going to be
+555	42	26	oos	text	read text
+560	0	145	restaurant_reviews	restaurant_suggestion	they sold out of tacos at the buffet
+573	42	12	oos	report_lost_card	order me a book of stamps and envelopes
+592	114	124	goodbye	thank_you	great talk, thanks
+598	27	56	bill_balance	bill_due	whens my insurance due and how much does it cost
+606	42	140	oos	next_holiday	when do the kids get out of school today
+627	139	42	definition	oos	what is the definiton of auspicious
+629	42	91	oos	new_card	can you tell me what credit cards i have open
+637	27	93	bill_balance	income	how much do i have to pay this month
+646	48	65	todo_list	todo_list_update	did i put grocery shopping on my todo list
+670	131	123	schedule_maintenance	oil_change_when	can you let me know the next open slot for me to get my oil changed
+672	42	54	oos	food_last	what should i take for a cold
+676	42	73	oos	spelling	what's the proper subject verb order in japanese
+689	101	126	pto_request_status	pto_balance	any news on my vacation
+693	42	26	oos	text	please read me the last text message i received
+711	42	10	oos	smart_home	tell me how to refinish a wooden desk
+730	79	37	payday	last_maintenance	can you tell me the date of my last check
+734	54	44	food_last	expiration_date	what is the expiration date for honey
+741	0	46	restaurant_reviews	meal_suggestion	do they serve good tacos at the buffet
+745	54	44	food_last	expiration_date	what is the expiration date for those eg
+765	60	105	calendar	calendar_update	i can't remember if i added the fun run to my calendar yet; did i
+778	42	109	oos	credit_limit_change	how can i get a better rate on my card
+788	42	136	oos	current_location	can you give me the gps location of harvey
+789	42	31	oos	measurement_conversion	how many items are in a bakers dozen
+791	75	11	what_is_your_name	user_name	what would you like me to call you
+793	42	0	oos	restaurant_reviews	tell me a summary of reviews that oakley frogskins get on amazon
+796	42	24	oos	traffic	find out where parking is close to the stadium
+808	42	52	oos	vaccines	will the anti-vaxxers die off if no one gives them vaccines
+828	46	29	meal_suggestion	change_language	do you have any recommendations for korean
+829	42	5	oos	weather	what do i wear on my feet when it rains
+830	43	16	shopping_list	order	is milk one of the things i need to buy
+839	42	86	oos	cook_time	tell me the price of bananas at whole foods this week
+840	42	58	oos	share_location	locate jenny at her present position
+841	42	4	oos	time	what time is a star is born showing
+843	42	38	oos	exchange_rate	what is bitcoin trading for currently
+862	68	37	transactions	last_maintenance	when did i last make a purchase
+864	102	23	how_busy	restaurant_reservation	is mr joes pizza available for a seating
+878	42	10	oos	smart_home	what's the power consumption of my fridge
+890	42	55	oos	change_ai_name	are you allowed to call someone a dirty name as part of free speech
+892	42	134	oos	ingredient_substitution	what kinds of cereal are gluten free
+896	42	72	oos	directions	is there an alternate bus stop close to my home i can use
+901	42	20	oos	freeze_account	i need to add a person to my bank account
+908	41	35	credit_limit	balance	how much do i have available on my visa card
+922	42	126	oos	pto_balance	how many months do i left in my hbo subscription
+924	139	22	definition	meaning_of_life	can you tell me the meaning of fluctuate
+933	26	114	text	goodbye	tell jim i'm coming home soon
+936	114	82	goodbye	greeting	regards
+943	71	28	spending_history	improve_credit_score	did i stick to my dinner budget
+946	43	125	shopping_list	shopping_list_update	am i supposed to buy milk
+949	42	140	oos	next_holiday	when do i have to get the mmr
+966	42	72	oos	directions	find directions to the sunshine car wash from my house
+977	2	20	account_blocked	freeze_account	can you help me unlock my bank account
+979	42	124	oos	thank_you	fun gift ideas to give to grandparents
+980	42	116	oos	book_hotel	i'd like to hire a wedding planner and need help finding one
+982	42	10	oos	smart_home	fold my hand
+985	71	42	spending_history	oos	do i overspend when it comes to fast food
+987	27	42	bill_balance	oos	how expensive is my internet
+990	42	115	oos	what_can_i_ask_you	how to take care of the sick
+1009	42	65	oos	todo_list_update	make a list of decor i would need to have a titanic themed birthday party
+1023	42	31	oos	measurement_conversion	how much does it cost to get two jackets dry cleaned
+1025	101	126	pto_request_status	pto_balance	any new info on my vacation
+1030	42	82	oos	greeting	what's going on in the world today
+1032	49	2	card_declined	account_blocked	why can't i use my credit card
+1039	134	3	ingredient_substitution	oil_change_how	is it okay to use applesauce instead of oil
+1042	60	105	calendar	calendar_update	have i gotten around to adding the bike ride to my calendar yet
+1063	42	148	oos	pto_used	how many kilowatts have i used this month
+1073	42	131	oos	schedule_maintenance	what supplies do i need to clean my car
+1092	42	72	oos	directions	where is the closest architecture college
+1101	42	10	oos	smart_home	please clean the car windows
+1112	68	71	transactions	spending_history	what have i spent things on
+1114	37	123	last_maintenance	oil_change_when	have i recently had an oil change
+1117	42	134	oos	ingredient_substitution	what is that crunchy stuff on creme bruleo
+1119	42	144	oos	change_user_name	what is harry's real name
+1122	6	50	redeem_rewards	rewards_balance	how can i claim my rewards for my visa card
+1137	42	120	oos	plug_type	what brush can i use to wash my car that won't scratch it
+1140	43	115	shopping_list	what_can_i_ask_you	recite the items i'm planning to purchase
+1168	42	108	oos	direct_deposit	list the contents of my safety deposit box at the bank
+1169	42	27	oos	bill_balance	how much should i tip on this bill
+1178	42	135	oos	calories	how many calories does doing 20 situps burn
+1182	42	17	oos	jump_start	how is my driving
+1184	111	56	pay_bill	bill_due	today is the day i should pay my electric bill
+1188	42	108	oos	direct_deposit	can you store a gun in a safe deposit box
+1194	42	10	oos	smart_home	should i do a complete stop at red lights
+1195	42	48	oos	todo_list	please check up on my son's homework
+1202	42	134	oos	ingredient_substitution	can you tell me how to get gum out of my rug
+1205	42	27	oos	bill_balance	what's my current electric bill
+1207	106	141	play_music	update_playlist	put on my 90s playlist
+1209	42	131	oos	schedule_maintenance	can you book me an appointment at a car wash
+1215	42	148	oos	pto_used	what time did my daughter get home from her date
+1217	68	41	transactions	credit_limit	is my visa bill over my limit this month
+1224	146	128	travel_notification	travel_alert	must call my bank about my travel plans
+1225	42	145	oos	restaurant_suggestion	find the best prices for toothpaste at any store within a 5 mile radius of my location
+1226	71	42	spending_history	oos	looking at this week only, have i overspent on hoagies
+1230	42	108	oos	direct_deposit	can i set up mobile deposits
+1242	79	56	payday	bill_due	when will my payment be deposited
+1245	42	140	oos	next_holiday	when is the next full moon
+1249	42	34	oos	do_you_have_pets	what's the safest pet to be around toddlers
+1259	54	44	food_last	expiration_date	when does the jerky expire
+1260	150	119	change_volume	change_speed	can you speak quieter
+1264	42	110	oos	gas	explain to me the process of evaporation
+1278	42	53	oos	reminder_update	i would like for you to start a biography on me
+1283	42	62	oos	carry_on	does my carrier have coverage in europe
+1286	27	93	bill_balance	income	what will i be paying for utilities this month
+1290	105	67	calendar_update	cancel_reservation	cancel event scheduled for this afternoon
+1304	42	106	oos	play_music	aquire the soundtracks from the movie if i stay and add them to my ipod
+1305	42	6	oos	redeem_rewards	make a list of side hustles i could start today to make a little extra cash
+1313	42	106	oos	play_music	"can you find ""were the millers"" on hulu"
+1328	134	3	ingredient_substitution	oil_change_how	can i swap applesauce for oil
+1332	117	150	are_you_a_bot	change_volume	is your voice from a human or is it synthesized
+1337	47	98	tire_change	tire_pressure	how many miles are my tires rated for
+1338	105	67	calendar_update	cancel_reservation	what is the best way to remove this appointment
+1347	42	67	oos	cancel_reservation	can you add a bag to my reservation
+1348	42	26	oos	text	read my friend's text message
+1351	42	149	oos	travel_suggestion	what are some of the most visited countries for people looking to travel abroad
+1363	42	4	oos	time	what time do i need to arrive to make it on time
+1372	42	10	oos	smart_home	please answer the phone and put it on speaker on the tv
+1375	144	11	change_user_name	user_name	bob is my name now
+1386	109	28	credit_limit_change	improve_credit_score	can i get more credit
+1388	42	10	oos	smart_home	i want to install new tiles in my kitchen
+1394	136	89	current_location	pin_change	open map and pin point my location
+1395	42	1	oos	nutrition_info	what is a good home remedy for a rash
+1399	35	42	balance	oos	what the numerical number inside my bank accounts
+1405	42	84	oos	order_status	will amazon ship an order even if there was a pricing mistake
+1423	46	145	meal_suggestion	restaurant_suggestion	i need to know what's good for chinese around here
+1424	42	12	oos	report_lost_card	give me my wallet location
+1428	12	59	report_lost_card	international_visa	my capital one visa was taken without permission
+1432	42	25	oos	make_call	create a contact labeled mom
+1434	42	120	oos	plug_type	i need you to check the resistance of a coil wrapped 6 times with an id of 25mm
+1438	42	43	oos	shopping_list	what stores are in the local mall
+1445	42	119	oos	change_speed	put into words what you want
+1448	120	42	plug_type	oos	does z used the same plus as we do in the united states
+1450	55	75	change_ai_name	what_is_your_name	what do you think about me calling you cora
+1454	42	71	oos	spending_history	how much does it cost to spay a puppy
+1456	42	73	oos	spelling	review my resume for spelling errors
+1463	48	56	todo_list	bill_due	can you see if paying garbage bill is on my todo list for this week
+1477	42	29	oos	change_language	who teaches english near me
+1486	42	48	oos	todo_list	make a list of goals i need to meet in order to write a book
+1492	42	25	oos	make_call	how many voicemails are currently in my inbox
+1496	42	1	oos	nutrition_info	inform me of what microbes are
+1512	42	20	oos	freeze_account	cancel my subscription to scientific american
+1529	42	17	oos	jump_start	please alert me when my iphone battery falls below 30%
+1530	78	72	distance	directions	do i have a ways to go or am i close to getting to penn station
+1536	42	23	oos	restaurant_reservation	can you book me a tee time at cantigny at 2 pm on saturday
+1541	62	41	carry_on	credit_limit	can i bring perfume on the plane or what is the size limit
+1547	42	130	oos	sync_device	how do i make my android phone more secure
+1555	42	149	oos	travel_suggestion	what activities can i to do outside today
+1561	42	148	oos	pto_used	what are my hours this week at work
+1564	42	25	oos	make_call	accept incoming phone call
+1567	42	72	oos	directions	can you check to see which parking garages are open downtown
+1574	42	93	oos	income	how do i make money
+1575	42	71	oos	spending_history	what is appropriate to spend on a bouquet of flowers for mother's day
+1604	134	104	ingredient_substitution	recipe	will this recipe still be good if i use milk instead of eggs
+1606	42	1	oos	nutrition_info	i have a rash, what can i use for it
+1609	42	89	oos	pin_change	can you fill in my credit card number on the screen
+1610	42	120	oos	plug_type	what is the top 10 best modems
+1611	42	133	oos	transfer	i need to find work, help me connect to a local business through linkedin
+1630	147	10	cancel	smart_home	can you turn off the process
+1634	42	27	oos	bill_balance	what's the cost of bottled water
+1635	133	35	transfer	balance	how much money can i transfer today
+1636	42	130	oos	sync_device	delete the contact uncle john from my phone
+1641	42	137	oos	international_fees	what is the fee for a cash advance
+1642	42	1	oos	nutrition_info	how much are the clorox detergents
+1647	70	43	report_fraud	shopping_list	i don't remember buying this
+1673	8	110	gas_type	gas	what raiting of gas is called for
+1674	42	10	oos	smart_home	wash windshield
+1678	70	68	report_fraud	transactions	i think this transaction is bogus
+1679	42	112	oos	ingredients_list	instruct a list of all the brands of cereal manufactured by kelloggs
+1682	134	3	ingredient_substitution	oil_change_how	is it ok to use oil spray instead of canola oil
+1693	42	94	oos	taxes	how long does it take the irs to issue a tax refund
+1698	42	130	oos	sync_device	can you check on what it would cost me to upgrade my iphone with t-mobile
+1704	42	26	oos	text	email my boss, tell him i wont be in today
+1712	42	10	oos	smart_home	what's that smell
+1718	42	10	oos	smart_home	power up my generator
+1745	48	65	todo_list	todo_list_update	"did i add ""cleaning the foyer"" to my todo list yet"
+1755	42	25	oos	make_call	create emergency phone numbers list
+1760	77	42	where_are_you_from	oos	a hidden government facility
+1768	42	76	oos	reminder	how much memory do i have left on this phone
+1778	42	21	oos	what_song	display the song lyrics for me
+1782	42	131	oos	schedule_maintenance	what's a good way to organize my tools in my garage
+1783	42	147	oos	cancel	what do you do if you can't stop vomiting
+1784	42	70	oos	report_fraud	i would like to know how long a charge is suppose to last on my phone
+1788	97	101	pto_request	pto_request_status	how do i get help with a vacation itinerary
+1800	42	38	oos	exchange_rate	look up the conversion rate for the euro to dollar exchange
+1805	138	38	calculator	exchange_rate	i spent 34 dollars for 12 gallons of paint what is the average price for each gallon
+1815	70	137	report_fraud	international_fees	this charge is bs
+1827	42	72	oos	directions	how would you rate the airport i am traveling to
+1840	61	42	translate	oos	what's the word for trees in norway
+1843	42	126	oos	pto_balance	how much time is left on my laundry
+1854	42	5	oos	weather	look up the average temperature changes over the last 30 years for my area
+1855	42	25	oos	make_call	deny incoming phone call
+1864	90	91	replacement_card_duration	new_card	how can i request a new credit card
+1865	94	27	taxes	bill_balance	how much do i owe the irs
+1892	8	110	gas_type	gas	what gas goes in the vehicle
+1908	28	109	improve_credit_score	credit_limit_change	can i hurt my credit rating if i open several credit cards in a short time frame
+1912	42	39	oos	uber	call an uber to take me to the closest grocery store
+1916	42	143	oos	min_payment	how much of a refund will i get this year
+1925	126	97	pto_balance	pto_request	can you see if i have any vacation days available for a request
+1928	42	133	oos	transfer	please take all my money out of my checking account and close the account
+1943	42	120	oos	plug_type	i need a laptop with 16gb of ram
+1947	90	91	replacement_card_duration	new_card	time to order and receive a new credit card
+1949	42	149	oos	travel_suggestion	what bands are touring in my city this week
+1954	42	72	oos	directions	what's a good way of backing out of a parking spot
+1964	2	20	account_blocked	freeze_account	can you help me unblock my account
+1971	42	96	oos	who_made_you	which company has gone up the most today
+1976	43	125	shopping_list	shopping_list_update	does my shopping list have pop tarts
+1977	42	22	oos	meaning_of_life	do we actually have a soul
+1982	46	61	meal_suggestion	translate	what kind of indian would you recommend
+1983	42	149	oos	travel_suggestion	make a list of all community gardens near me
